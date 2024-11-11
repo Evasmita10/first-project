@@ -2,7 +2,7 @@
 int main() {
     int price;
     float c;
-    printf("Enter price=100"
+    printf("Enter price=100");
     scanf("%d", &price);
     discount=price*0.15
     c=price-discount
